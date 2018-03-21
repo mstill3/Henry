@@ -1,3 +1,3 @@
 # Henry
-An apple mobile game
+An apple mobile game  
 Written by Matt Stillwell
